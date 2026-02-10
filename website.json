@@ -1,0 +1,50 @@
+{
+	"title": "Multiplayer Sleeping",
+	"description_short": "Pass night without requring all online players to be sleeping",
+	"description": "Adds multiplayer sleeping functionality by allowing night to be passed without requiring all online players to be sleeping in beds",
+	"youtube": null,
+	"list_on_site": true,
+	"icon": "mcpeachpies_multiplayer_sleeping/pack.png",
+	"features": [
+		{
+			"label": "Dynamicly adjusts to playersSleepingPercentage gamerule"
+		},
+		{
+			"label": "Compatible with <a href=\"/datapacks/?afk_detector\" class=\"read-more\">AFK Detector<a> to ignore players who are online but not active"
+		},
+		{
+			"label": "Chat message announces require player count to pass night as well as button to kick sleeping players if night is required"
+		},
+		{
+			"label": "Clears rain and thunderstorms without distrupting natural in-game weather cycle"
+		},
+		{
+			"label": "1.15 & 1.16 version allows players to sleep through the night when 25% of online players (In the overworld) are sleeping"
+		},
+		{
+			"label": "Compatible with Minecraft 1.15 and up, latest version tested on Minecraft 1.21.10"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download for 1.21+",
+			"file": "https://github.com/mcpeachpies/multiplayer-sleeping/releases/latest/download/mcpeachpies_multiplayer_sleeping.zip"
+		},
+		{
+			"label": "Download for 1.17-1.20",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_multiplayer_sleeping.zip"
+		},
+		{
+			"label": "Download for 1.16",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_multiplayer_sleeping_1_16.zip"
+		},
+		{
+			"label": "Download for 1.15",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_multiplayer_sleeping_1_15.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/multiplayer-sleeping"
+		}
+	]
+}
